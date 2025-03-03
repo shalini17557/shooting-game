@@ -90,15 +90,13 @@ The player has 3 lives that are subtracted by 1 each time he is touched by a zom
 
 **Felipe Rosa**
 
-- Github: [@flpfar](https://github.com/flpfar)
-- Twitter: [@flpfar](https://twitter.com/flpfar)
-- Linkedin: [Felipe Augusto Rosa](https://www.linkedin.com/in/felipe-augusto-rosa)
+- Github: [@shalini](https://github.com/shalini17557)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/flpfar/zombie-attack/issues).
+Feel free to check the [issues page](https://github.com/shalini17557/shooting-game/issues).
 
 ## Show your support
 
